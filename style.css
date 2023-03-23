@@ -10,21 +10,21 @@ padding: 24px 0;
 }
 .imagem-cabecalho{
     widht:15%;
-    height: 5%;
+    height: 10%;
 }
-li
+h1
     {display: inline-block; 
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;}
-h1 
+li 
 {display: block;
 margin: o 16px;
-padding: 100px 0;
-font-size: 40px;}
+padding: 24px 0;
+font-size: 24px;}
 
 .escola-imagem{
-    width: 50%;
+    width: 15%;
 }
 .escola {
     background-image: linear-gradient(rgb(202, 12, 43),rgb(37, 32, 32) );
@@ -32,8 +32,13 @@ font-size: 40px;}
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 40px 0;
 }
 .escola-conteudo 
-{width: 50%;
-    }
+{width: 40%;}
+ 
+.escola-titulo
+ {padding: 50px 30px; }
+
+ .aluno-um
+ {width: 20%;}
