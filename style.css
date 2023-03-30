@@ -41,4 +41,14 @@ font-size: 24px;}
  {padding: 50px 30px; }
 
  .aluno-um
- {width: 20%;}
+ {width: 20%;
+} 
+.estudante-icone
+{width: 60px;}
+
+.estudante-div {
+    text-align: center;
+}
+
+
+ 
