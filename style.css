@@ -50,5 +50,30 @@ font-size: 24px;}
     text-align: center;
 }
 
+.escola-conteudo
+{width: 30%;}
+
+.escola-titulo
+{padding: 50px 30px;}
+
+.aluno-um
+{width: 30%;
+    height: 150px;
+}
+ .estudante-icone
+ {width: 54px;}
+body{font-family: Georgia, 'Times New Roman', Times, serif;}
+ .estudante-div
+ {text-align: center;}
+  
+ .aluno-titulo
+{
+    text-align: center;
+}
+.estudantes-todos
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
 
  
